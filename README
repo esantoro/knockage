@@ -1,0 +1,7 @@
+This is only a simple fork of the original knockAge script available at:
+
+ http://www.ibm.com/developerworks/opensource/library/l-knockage/index.html
+
+I am NOT the original author and I only fixed blank lines handling, that is, the infamous 
+"Use of uninitialized value in system at ./knockAge-0.1.pl line 236." bug.
+
